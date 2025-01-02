@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Poppins";
+  font-weight: 700;
+  font-style: normal;
+  src: url("./fonts/Poppins-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-style: normal;
+  src: url("./fonts/Roboto-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Rubik Vinyl";
+  font-weight: 400;
+  font-style: normal;
+  src: url("./fonts/RubikVinyl-Regular.ttf") format("truetype");
+}
