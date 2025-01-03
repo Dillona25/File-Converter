@@ -7,14 +7,14 @@
 
 @font-face {
   font-family: "Roboto";
-  font-weight: 400;
+  font-weight: normal;
   font-style: normal;
   src: url("./fonts/Roboto-Regular.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Rubik Vinyl";
-  font-weight: 400;
+  font-weight: normal;
   font-style: normal;
   src: url("./fonts/RubikVinyl-Regular.ttf") format("truetype");
 }
